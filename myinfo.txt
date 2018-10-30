@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 "Name : saim naveed"
+=======
+"Name: saim naveed"  
+reg no. l1f16bscs0024
+student at ucp
+>>>>>>> cca9d69360cde1a7f5b9601aa1621fa9c09d94b0
